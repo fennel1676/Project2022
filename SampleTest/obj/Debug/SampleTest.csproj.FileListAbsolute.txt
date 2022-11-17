@@ -1,0 +1,9 @@
+D:\Project\ProjectGit\GitHub\SampleTest\SampleTest\bin\Debug\SampleTest.exe.config
+D:\Project\ProjectGit\GitHub\SampleTest\SampleTest\bin\Debug\SampleTest.exe
+D:\Project\ProjectGit\GitHub\SampleTest\SampleTest\bin\Debug\SampleTest.pdb
+D:\Project\ProjectGit\GitHub\SampleTest\SampleTest\obj\Debug\SampleTest.csprojAssemblyReference.cache
+D:\Project\ProjectGit\GitHub\SampleTest\SampleTest\obj\Debug\SampleTest.Properties.Resources.resources
+D:\Project\ProjectGit\GitHub\SampleTest\SampleTest\obj\Debug\SampleTest.csproj.GenerateResource.cache
+D:\Project\ProjectGit\GitHub\SampleTest\SampleTest\obj\Debug\SampleTest.csproj.CoreCompileInputs.cache
+D:\Project\ProjectGit\GitHub\SampleTest\SampleTest\obj\Debug\SampleTest.exe
+D:\Project\ProjectGit\GitHub\SampleTest\SampleTest\obj\Debug\SampleTest.pdb
